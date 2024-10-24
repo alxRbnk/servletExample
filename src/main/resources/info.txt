@@ -1,0 +1,5 @@
+      C:\Program Files\Apache Software Foundation\Tomcat 10.1\conf\server.xml
+      <Server port="8005" shutdown="SHUTDOWN">            -1 -> 8005
+
+
+      File → Settings -> Editor → File Encodings. utf-8 everywhere
