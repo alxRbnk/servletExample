@@ -8,8 +8,6 @@
 <h1><%= "START PAGE" %>
 </h1>
 <br/>
-<a href="hello">Hello Servlet</a>
-<br/>
 <a href="first">First Servlet</a>
 </body>
 </html>
